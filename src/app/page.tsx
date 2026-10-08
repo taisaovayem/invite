@@ -18,6 +18,8 @@ export default async function Home() {
       Đời có nhiều điều trân quý
       <br />
       Bạn là điều đầu tiên
+      <br />
+      Gửi email đến <a href="mailto:why@taisaovayem.com">why@taisaovayem.com</a> để tạo thiệp mời nhé
     </div>
   );
 }
